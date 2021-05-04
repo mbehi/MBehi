@@ -52,6 +52,8 @@ Here are some ideas to get you started:
 <br>
 <br>
 
+<br>
+
 ### :zap: Github Stats
 
 <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=MBehi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Mo Behi's Github Stats" width="60%">
