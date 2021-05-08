@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://www.linkedin.com/in/atxmo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;</a>
 <br>
-<a href="https://twitter.com/Mo22116312"><img src="https://img.shields.io/twitter/follow/Mo22116312?style=social" alt="Twitter" /></a>&nbsp;
+<a href="https://twitter.com/Mo22116312"><img src="https://img.shields.io/twitter/follow/MohsinB_ATX?style=social" alt="Twitter" /></a>&nbsp;
 <br>
 </p>
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
